@@ -1,0 +1,17 @@
+```
+G28 ; home axis
+G0 X120 Y120 ; center 
+M851 Z0
+M500
+M501
+M503
+G28 Z
+G1 F40 Z0
+M211 S0
+//go down and look at lcd Z value calculate
+M851 Z-10.89
+M211 S1
+M500
+M501
+M503
+```
