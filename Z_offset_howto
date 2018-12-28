@@ -1,3 +1,4 @@
+How to set Z Offset
 ```
 G28 ; home axis
 G0 X120 Y120 ; center 
