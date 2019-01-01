@@ -3,7 +3,7 @@ G21    ; Units in mm (mm)
 M149 C ; Units in Celsius
 M200 D1.75
 ; Steps per unit:
-M92 X80.00 Y80.00 Z1501.10 E208.00
+M92 X80.00 Y80.00 Z1501.10 E185.71
 ; Maximum feedrates (units/s):
 M203 X500.00 Y500.00 Z50.00 E500.00
 ; Maximum Acceleration (units/s2):
