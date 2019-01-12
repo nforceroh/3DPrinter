@@ -1,0 +1,35 @@
+09:56:22.899 -> echo:Marlin 1.1.6
+09:56:22.899 -> 
+09:56:22.899 -> echo: Last Updated: 2017-10-10 12:00 | Author: (none, default config)
+09:56:22.899 -> echo:Compiled: Oct 30 2017
+09:56:22.899 -> echo: Free Memory: 3355  PlannerBufferBytes: 1232
+09:56:22.899 -> echo:V41 stored settings retrieved (526 bytes; crc 43940)
+09:56:22.899 -> echo:  G21    ; Units in mm
+09:56:22.899 -> echo:  M149 C ; Units in Celsius
+09:56:22.899 -> 
+09:56:22.899 -> echo:Filament settings: Disabled
+09:56:22.899 -> echo:  M200 D3.00
+09:56:22.899 -> echo:  M200 D0
+09:56:22.899 -> echo:Steps per unit:
+09:56:22.899 -> echo:  M92 X160.00 Y160.00 Z800.00 E200.00
+09:56:22.899 -> echo:Maximum feedrates (units/s):
+09:56:22.899 -> echo:  M203 X500.00 Y500.00 Z30.00 E100.00
+09:56:22.933 -> echo:Maximum Acceleration (units/s2):
+09:56:22.933 -> echo:  M201 X1500 Y1500 Z100 E10000
+09:56:22.933 -> echo:Acceleration (units/s2): P<print_accel> R<retract_accel> T<travel_accel>
+09:56:22.933 -> echo:  M204 P500.00 R500.00 T50.00
+09:56:22.933 -> echo:Advanced: S<min_feedrate> T<min_travel_feedrate> B<min_segment_time_ms> X<max_xy_jerk> Z<max_z_jerk> E<max_e_jerk>
+09:56:22.933 -> echo:  M205 S0.00 T0.00 B20000 X7.00 Y7.00 Z0.40 E2.00
+09:56:22.933 -> echo:Home offset:
+09:56:22.933 -> echo:  M206 X0.00 Y0.00 Z0.00
+09:56:22.933 -> echo:Auto Bed Leveling:
+09:56:22.933 -> echo:  M420 S0 Z0.00
+09:56:22.933 -> echo:Material heatup parameters:
+09:56:22.933 -> echo:  M145 S0 H180 B70 F255
+09:56:22.933 ->   M145 S1 H180 B50 F255
+09:56:22.933 -> echo:PID settings:
+09:56:22.933 -> echo:  M301 P33.79 I3.27 D87.18
+09:56:22.933 -> echo:  M304 P966.53 I173.51 D305.40
+09:56:22.933 -> echo:Z-Probe Offset (mm):
+09:56:22.933 -> echo:  M851 Z-1.20
+09:56:30.002 -> echo:SD init fail
