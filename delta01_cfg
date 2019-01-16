@@ -15,12 +15,10 @@ Recv: echo:Acceleration (units/s2): P<print_accel> R<retract_accel> T<travel_acc
 Recv: echo:  M204 P3000.00 R3000.00 T3000.00
 Recv: echo:Advanced: B<min_segment_time_us> S<min_feedrate> T<min_travel_feedrate> X<max_x_jerk> Y<max_y_jerk> Z<max_z_jerk> E<max_e_jerk>
 Recv: echo:  M205 B20000.00 S0.00 T0.00 X10.00 Y10.00 Z10.00 E5.00
-Recv: echo:Auto Bed Leveling:
-Recv: echo:  M420 S0
 Recv: echo:Endstop adjustment:
-Recv: echo:  M666 X-0.29 Y-0.58 Z0.00
+Recv: echo:  M666 X-0.20 Y0.00 Z-0.66
 Recv: echo:Delta settings: L<diagonal_rod> R<radius> H<height> S<segments_per_s> B<calibration radius> XYZ<tower angle corrections>
-Recv: echo:  M665 L231.00 R117.54 H230.52 S200.00 B70.00 X0.05 Y-0.20 Z-0.14
+Recv: echo:  M665 L231.00 R117.37 H232.91 S200.00 B70.00 X0.00 Y0.00 Z0.00
 Recv: echo:Material heatup parameters:
 Recv: echo:  M145 S0 H180 B60 F255
 Recv: echo:  M145 S1 H240 B100 F255
@@ -28,4 +26,3 @@ Recv: echo:PID settings:
 Recv: echo:  M301 P22.20 I1.08 D114.00
 Recv: echo:Z-Probe Offset (mm):
 Recv: echo:  M851 Z0.00
-Recv: ok
