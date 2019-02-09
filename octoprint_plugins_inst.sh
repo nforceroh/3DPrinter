@@ -13,6 +13,7 @@ https://github.com/jneilliii/OctoPrint-TabOrder/archive/master.zip
 https://github.com/Birkbjo/OctoPrint-Themeify/archive/master.zip
 https://github.com/amsbr/OctoPrint-EEprom-Marlin/archive/master.zip
 https://github.com/OctoPrint/OctoPrint-FirmwareUpdater/archive/master.zip
+https://github.com/malnvenshorn/OctoPrint-WebcamTab/archive/master.zip
 EOF
 `
 
