@@ -14,10 +14,11 @@ https://github.com/Birkbjo/OctoPrint-Themeify/archive/master.zip
 https://github.com/amsbr/OctoPrint-EEprom-Marlin/archive/master.zip
 https://github.com/OctoPrint/OctoPrint-FirmwareUpdater/archive/master.zip
 https://github.com/malnvenshorn/OctoPrint-WebcamTab/archive/master.zip
+https://github.com/ieatacid/OctoPrint-TerminalCommands/archive/master.zip
 EOF
 `
 
 for plugin in ${plugins}; do
   echo "installing ${plugin}"
-  /home/pi/oprint/bin/python2 -m pip install ${plugin}
+  /home/pi/oprint/bin/python2 -m pip install ${plugin} --no-cache-dir
 done
