@@ -15,6 +15,9 @@ https://github.com/amsbr/OctoPrint-EEprom-Marlin/archive/master.zip
 https://github.com/OctoPrint/OctoPrint-FirmwareUpdater/archive/master.zip
 https://github.com/malnvenshorn/OctoPrint-WebcamTab/archive/master.zip
 https://github.com/ieatacid/OctoPrint-TerminalCommands/archive/master.zip
+https://github.com/paukstelis/OctoPrint-Cancelobject/archive/master.zip
+https://github.com/OllisGit/OctoPrint-DisplayLayerProgress/releases/latest/download/master.zip
+https://github.com/FormerLurker/Octolapse/archive/master.zip
 EOF
 `
 
